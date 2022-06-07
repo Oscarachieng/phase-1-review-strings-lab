@@ -6,4 +6,4 @@ let myVar = currentUser.toUpperCase()
 
 let   excitedWelcomeMessage = welcomeMessage.toUpperCase()
 
-let    shortGreeting = "Welcome, "+currentUser[0]+"!"
+let    shortGreeting = "Welcome, "+currentUser.charAt(0)+"!"
